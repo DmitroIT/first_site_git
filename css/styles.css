@@ -2,10 +2,6 @@
     border-radius: 10px;
     line-height: 35px;
 }
-/* body {
-    position: relative;
-} */
-
 
 dt {
     padding: 0 5px;
@@ -71,4 +67,20 @@ h1 {
     padding: 15px;
     background-color: rgb(228, 228, 228);
     border: 2px solid white;
+}
+
+footer {
+    background-color: rgb(204, 203, 203);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 0;
+    text-align: right;
+}
+
+.container a {
+    display: inline;
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(53, 53, 53);
+    font-size: 12px;
 }
