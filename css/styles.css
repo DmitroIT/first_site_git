@@ -1,3 +1,4 @@
-* {
-    box-sizing: border-box;
+dt {
+    font-weight: 900;
+    text-decoration: underline;
 }
