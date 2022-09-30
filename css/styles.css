@@ -2,3 +2,34 @@ dt {
     background-color: rgb(230, 230, 219);
     display: inline-block;
 }
+
+a {
+    display: block;
+    text-transform: uppercase;
+}
+
+ul,
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 15px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: #0446b1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 100%;
+}
